@@ -1,1 +1,3 @@
-#This is my starter project.
+# [YOUR_PROJECT_NAME]
+
+[YOUR_PROJECT_DESCRIPTION]
