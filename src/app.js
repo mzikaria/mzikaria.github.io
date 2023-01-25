@@ -40,7 +40,7 @@ const App = () => {
   ]
 
   return (
-    <div id="app" className="p-5 w-full">
+    <div id="app" className="p-5 xl:w-1/2 lg:w-2/3 md:w-full sm:w-full">
       <Layout className="justify-between mb-4" section="top">
         <Logo />
         <Navigation links={links} />
